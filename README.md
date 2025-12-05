@@ -123,7 +123,3 @@ Verify the **7 ms latency** on Survue’s embedded hardware (not just GPU-based 
 
 ---
 
-## ⚙️ Reproduction
-
-All EDA, model training code, and visualizations are included in:
-
